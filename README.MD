@@ -14,3 +14,10 @@
   - Passo 4: Criar um novo orçamento:  
 ![Criar novo orçamento](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/orcamento/Screenshot%20from%202024-06-25%2009-47-48.png?raw=true)
   - Passo 5: Configurar as opções de alerta e orçamento: ![Orçamento](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/orcamento/Screenshot%20from%202024-06-25%2009-48-00.png?raw=true) ![Configurações](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/orcamento/Screenshot%20from%202024-06-25%2009-48-23.png?raw=true)
+
+
+# Exportação do Billing:
+  - Passo 1: Entrar no console e buscar pela opção de Faturamento e Exportação de Faturamento:  
+![Exportação de faturamento](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/billing_export/Screenshot%20from%202024-06-28%2008-19-42.png?raw=true)  
+  - Passo 2: Criar um novo conjunto de dados para onde os dados serão exportados:  
+![Novo conjunto de dados](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/billing_export/Screenshot%20from%202024-06-28%2008-28-53.png?raw=true)
