@@ -25,3 +25,24 @@
 
 # Personalização do Dashboard:
 ![Dashboard](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/personalizacao/Screenshot%20from%202024-07-02%2012-01-10.png?raw=true)
+
+# Usando Cloud Shell:
+  - Passo 1: Ativando o Cloud Shell:  
+[Ativando Cloud Shell](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-12-49.png?raw=true)
+  - Passo 2: Abrindo editor:  
+[Abrir Editor](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-13-28.png?raw=true)
+  - Passo 3: Fazer clone do projeto github https://github.com/GoogleCloudPlatform/java-docs-samples/tree/main  
+[Clone do github](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-15-08.png?raw=true)
+  - Passo 4: Rodar mvn clean install
+[instalar dependencias](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-19-20.png?raw=true)
+  - Passo 5: Entrar na pasta target:  
+[entrar em target](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-22-41.png?raw=true)
+  - Passo 6: Rodar artefato em java com java -jar <nome_do_artefato>  
+[rodar projeto](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-23-47.png?raw=true)
+  - Passo 7: Projeto rodando:  
+[Projeto rodando](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-24-02.png?raw=true)
+  - Passo 8: Web Preview:  
+[Web Preview](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-24-44.png?raw=true)
+  - Passo 9: Proxy rodando:  
+[Proxy](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/cloud_shell/Screenshot%20from%202024-07-02%2012-26-56.png?raw=true)
+
