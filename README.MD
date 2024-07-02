@@ -21,3 +21,7 @@
 ![Exportação de faturamento](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/billing_export/Screenshot%20from%202024-06-28%2008-19-42.png?raw=true)  
   - Passo 2: Criar um novo conjunto de dados para onde os dados serão exportados:  
 ![Novo conjunto de dados](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/billing_export/Screenshot%20from%202024-06-28%2008-28-53.png?raw=true)
+
+
+# Personalização do Dashboard:
+![Dashboard](https://github.com/GuilhermeMarques1/trilha-gcp-fundations-terraform-projetosfolders/blob/master/personalizacao/Screenshot%20from%202024-07-02%2012-01-10.png?raw=true)
